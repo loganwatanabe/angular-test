@@ -1,4 +1,10 @@
 {
-  "name": "",
-  "version": ""
+  "name": "angular-test",
+  "version": "1.0.0",
+  "description": "test scaffolding with postgres db",
+  "main": "client/app.js",
+  "repository": {
+  	"type": "git",
+  	"url": "git+https://github.com"
+  }
 }
